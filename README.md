@@ -2,12 +2,12 @@
 
 ##  Hi, i'm Lucas Dias Nardino 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasDiasNarino&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasDiasNardino&repo=convoychat" />
-</a>
+<div>
+  <a href="https://github.com/Enzo-Neves">
+     <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Neves&layout=compact&langs_count=9&theme=tokyonight"/>
+    <img height="182em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Neves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  </a>
+</div>
 
   
   ##
