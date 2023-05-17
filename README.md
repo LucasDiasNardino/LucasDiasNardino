@@ -13,7 +13,7 @@
   ##
      
  - Back-End Developer at HP Inc.
- - Computer Information Systems Student at PUCRS
+ - Information Systems Student at PUCRS
  - Contact me at lucas.diasnardino@gmail.com
  
         
